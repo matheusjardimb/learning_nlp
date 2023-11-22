@@ -13,6 +13,8 @@ conda env create -f nlp_course_env.yml
 source ~/anaconda3/bin/activate
 conda activate nlp_course
 jupyter notebook
+
+python -m spacy download en
 ```
 
 ## Resources
