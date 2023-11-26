@@ -1,2 +1,9 @@
 # learning_nlp
-Lessons from Udemy's 'Natural Language Processing with Python' course
+
+Lessons learned from
+Udemy's [Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/s)
+course
+
+## Resources
+
+- TODO
